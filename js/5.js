@@ -237,6 +237,226 @@ let content = [
         "after_test": true,
         "after_test_title": null
     }
+    ,
+    {
+        "id": "190",
+        "title": "Cover ЗМ",
+        "type": "mixed",
+        "description": "Основатель часового дома «Cover» - господин Ингольд, прежде чем решил открыть собственную компанию, долгое время проработал исполнительным директором на фабрике «Omega».",
+        "order": 7,
+        "active": true,
+        "course_id": "10",
+        "html_content": "<figure class=\"image\"><img src=\"https://edu.zzgold.by/dls_uploads/users/147/original-1604651808274.png\"></figure><p>&nbsp;</p><h3 style=\"text-align:justify;\"><span style=\"color:black;\">Для ценителей элитарных наручных часов такие понятия, как истинно швейцарское качество, филигранная работа, актуальный дизайн и мультифункциональность, ассоциируются с несколькими всемирно известными брендами, но и у других швейцарских производителей есть своя история успеха.</span></h3><figure class=\"image\"><img src=\"https://edu.zzgold.by/dls_uploads/users/147/original-1604651868719.png\"></figure><p style=\"text-align:justify;\"><span style=\"color:black;\">Основатель часового дома «Cover» - господин Ингольд, прежде чем решил открыть собственную компанию, долгое время проработал исполнительным директором на фабрике «Omega».В 1981 году он решил создать часы, не уступающие по качеству бренду, с которым его связывала судьба, но более демократичные по ценовой политике. И он создал целую нишу в часовой индустрии, благодаря искусному сочетанию элегантности с эксклюзивным, авангардным&nbsp;</span>дизайном. Родился новый индивидуальный стиль от «Cover». Эта марка стала популярна в более чем 50 странах мира.</p><p style=\"text-align:justify;\">Родительский дом часовой марки Cover располагается в сырной столице Швейцарской Конфедерации, городе Солотурн, который также является одним из древнейших центров швейцарского часового ремесла.</p><h2 style=\"text-align:center;\"><span style=\"color:black;\">Швейцарское качество —&nbsp;надежность на века</span></h2><p style=\"text-align:justify;\"><span style=\"color:black;\">Отличительной особенностью компании Cover является то, что она производит часы действительно швейцарского качества. Под качеством в данном случае подразумевается как техническое качество часов, которое включает в себя точность хода, надежность, а также способность противостоять влаге и механическому воздействию, так и эстетические свойства, включающее в себя элегантность стиля и оригинальность конструкции. На каждой модели часов присутствует маркировка в виде надписи «Swiss Made», которая является своего рода гарантией качества продукции.</span></p><p style=\"text-align:justify;\"><span style=\"color:black;\">Часовой бренд Cover в производстве наручных часов придерживается нескольких правил, которые не нарушаются ни при каких обстоятельствах.&nbsp;</span></p><p style=\"text-align:justify;\"><span style=\"color:black;\">Первое:&nbsp;<strong>женские часы Cover&nbsp;</strong>и&nbsp;<strong>мужские часы Cover&nbsp;</strong>должны гармонично различаться.</span></p><p style=\"text-align:justify;\"><span style=\"color:black;\">Второе: каждая представленная модель часов должна иметь оптимальное соотношение цены и качества.&nbsp;</span></p><p style=\"text-align:justify;\"><span style=\"color:black;\">Третье:&nbsp;<strong>наручные часы Cover</strong>должны производиться с учетом основных требований современной часовой индустрии.</span></p><figure class=\"image\"><img src=\"https://edu.zzgold.by/dls_uploads/users/147/original-1604651938171.png\"></figure><p style=\"text-align:justify;\"><span style=\"color:black;\">Швейцарские часы Cover комплектуются высокотехнологичными механизмами Ronda и ЕТА и выполняются в корпусе из сверхпрочной стали. Для декора производители используют кристаллы Swarovski и напыление из золота, ремешки изготавливают из натуральной кожи, а циферблаты 90% часов покрыты сапфировым стеклом. Модельный ряд наручных часов Cover включает в себя около 30 основных коллекций, в которых присутствуют модели для мужчин и женщин, выполненные в разной стилистике – от classic до sport style. Основу ассортимента бренда составляют мужские наручные часы Cover в классическом стиле.</span></p><h2 style=\"text-align:center;\">Мужские часы Cover</h2><figure class=\"image\"><img src=\"https://edu.zzgold.by/dls_uploads/users/147/original-1604652000252.png\"></figure><p style=\"text-align:justify;\"><span style=\"color:black;\">В линейке бренда присутствуют и спортивные часы, однако основным трендом всех мужских коллекций Cover продолжает оставаться деловой стиль. Кварцевые мужские хронографы Cover, представленные в нескольких сериях, включают в себя классические часы в круглом и квадратном корпусе, а также более молодежные часы в бочкообразном корпусе с дополнительными циферблатами. Автоматические наручные часы Cover выпускаются в серии М и оснащаются прозрачными задними крышками, позволяющими наблюдать работу высокоточных часовых механизмов. Швейцарские часы Cover М-серии, в которую входит ограниченное число моделей, комплектуются сапфировым стеклом выпуклой формы и имеют водозащиту до 100 метров.</span></p><p style=\"text-align:justify;\">&nbsp;</p><h2 style=\"text-align:center;\">Женские часы Cover</h2><figure class=\"image\"><img src=\"https://edu.zzgold.by/dls_uploads/users/147/original-1604652098642.png\"></figure><p style=\"text-align:justify;\"><span style=\"color:black;\">Если мужские швейцарские часы Cover можно назвать довольно консервативными по своему дизайнерскому исполнению, то женские коллекции бренда – это сочетание строгого стиля с изяществом и легким налетом гламура. При том что это классические наручные часы, большинство из которых инкрустировано кристаллами Swarovski, дизайнеры бренда добавляют в каждую модель оригинальные элементы – необычные рифленые кнопки, зигзагообразные браслеты, эффектные цветовые переходы на циферблате или сюрреалистически искаженные цифры. В модельном ряду представлены женские часы Cover в квадратном, прямоугольном, овальном и удлиненном корпусе, оснащенные разноцветными кожаными ремешками и оригинальными стальными браслетами.</span></p><p style=\"text-align:justify;\"><span style=\"color:black;\">Таким образом, преследуя амбициозные цели покорить Олимп часовой индустрии, можно выбрать свой собственный путь, что доказала швейцарская марка Cover. Главное – это иметь в активе непревзойденное швейцарское качество, дизайнерский талант и верность своему фирменному стилю вопреки веяниям изменчивой моды.</span></p><p style=\"text-align:justify;\">&nbsp;</p><p style=\"text-align:justify;\"><span style=\"font-size:18px;color:rgb(18,18,18);background-color:rgb(255,255,255);\">В коллекции Cover представлены механические и кварцевые часы, для изготовления которых применяются лучшие материалы и передовые методы их обработки. Часы комплектуются механизмами Ronda и ЕТА, имеют прочный корпус и оснащены сапфировыми стеклами. Словом, коллекции на 100% соответствует девизу компании: «Стильно надежно, доступно».</span></p>",
+        "video_url": null,
+        "images": {
+            "normal": "https://edu.zzgold.by/dls_uploads/users/147/normal-1604651808274.png",
+            "original": "https://edu.zzgold.by/dls_uploads/users/147/original-1604651808274.png",
+            "preview": "https://edu.zzgold.by/dls_uploads/users/147/preview-1604651808274.png"
+        },
+        "audio_url": null,
+        "cost": null,
+        "estimation": 1800,
+        "after_test_id": null,
+        "read": true,
+        "author": {
+            "id": "147",
+            "name": "Оксана",
+            "surname": "Скрипко"
+        },
+        "test": {
+            "id": "224",
+            "after_test_id": "222",
+            "title": "Тест \"Cover\" ЗМ",
+            "published": true,
+            "type": "course_intermediate",
+            "max_attempts": 10,
+            "time_to_pass": 420,
+            "active": true,
+            "questions_amount": 5,
+            "assessment_type": "correct_answers",
+            "min_answers": 4,
+            "min_score_points": 4,
+            "max_score_points": null,
+            "award_condition_point": null,
+            "next_attempt_time": 300,
+            "after_test": true
+        },
+        "additional_materials": [],
+        "after_test": true,
+        "after_test_title": null
+    },
+    {
+        "id": "191",
+        "title": "Swiss Military by Chrono  ЗМ",
+        "type": "mixed",
+        "description": "Swiss Military by Chrono  – компания более чем с восьмидесятилетней историей, основанная в 1926 году в настоящее время занимает одно из лидирующих мест в Швейцарии по производству наручных часов",
+        "order": 8,
+        "active": true,
+        "course_id": "10",
+        "html_content": "<figure class=\"image\"><img src=\"https://edu.zzgold.by/dls_uploads/users/147/original-1604652190797.png\"></figure><figure class=\"image\"><img src=\"https://edu.zzgold.by/dls_uploads/users/147/original-1604652271102.png\"></figure><p style=\"text-align:justify;\"><span style=\"color:black;\"><strong>Swiss Military by Chrono</strong></span><span style=\"color:#0E0E0E;\">&nbsp;– компания более чем с восьмидесятилетней историей, основанная в 1926 году в настоящее время занимает одно из лидирующих мест в Швейцарии по производству наручных часов.</span><br><span style=\"color:#0E0E0E;\">Название компании CHRONO AG и принадлежащий ей бренд Swiss military by chrono хорошо известны во всем мире за выдающийся дизайн и качество своих часов, основанных под влиянием традиций и инноваций.</span></p><p style=\"text-align:justify;\"><span style=\"color:#0E0E0E;\">Все&nbsp;<strong>швейцарские часы Swiss military by chrono</strong>&nbsp;имеют право носить клеймо «<strong>Swiss Made</strong>» (сделано в Швейцарии), что является признаком высочайшего качества и надежности марки, достойной поддерживать многовековые швейцарские традиции. Именно в Швейцарии имеются все необходимые условия для производства первоклассных изделий, а именно: выдающиеся специалисты часовой промышленности, многолетние традиции.</span></p><p style=\"text-align:justify;\"><span style=\"color:black;\">В их производстве использовался опыт лучших швейцарских часовых мастеров, который служил гарантией безупречного качества и надежности каждой единицы товара.</span></p><p style=\"text-align:justify;\"><span style=\"color:black;\">Изначально главным направлением деятельности известной торговой марки выступало создание измерителей времени, предназначенных для военных. Поэтому разработка таких аксессуаров предусматривала точное соблюдение строгим стандартам, нормам и требованиям каждой единицы выпущенного товара. Однако сегодня круг потребителей заметно расширился, поскольку многолетний опыт часовых мастеров и наличие уникальных технологий, активно используемых компанией, позволяет создавать сверхпрочные и функциональные часы, способные с легкостью выдерживать любые механические или физические нагрузки, а также сильные потрясения.</span></p><p style=\"text-align:justify;\"><span style=\"color:black;\">Измерители времени Swiss Military by Chrono изготавливаются только из самой лучшей нержавеющей стали, которая смогла обеспечить каждому изделию высокий уровень водонепроницаемости. Практически все аксессуары данной торговой марки имеют циферблаты со специальными системами подсветки, помогающие потребителю постоянно контролировать время даже при условии полной темноты. Большая часть моделей известного бренда представляет собой&nbsp;<strong>хронографы</strong>, имеющие неограниченные функциональные возможности и максимально привлекательный дизайн для потребителя.</span></p><p style=\"text-align:justify;\"><span style=\"color:black;\">Наручные часы</span><a href=\"http://academywatch.ru/swiss-military-by-chrono.html\"><span style=\"color:black;\">Swiss Military by Chrono</span></a><span style=\"color:black;\">сегодня представлены на рынке в широком ассортиментом ряду моделей, многие из которых отличаются водозащитой до 100 м, а также имеют качественный и надежный корпус, диаметр которого достигает отметки в 43 мм. Аксессуары торговой марки нередко оснащаются&nbsp;<strong>тахиметрической шкалой</strong>, имеют яркую и строго-функциональную разметку циферблата, а также украшаются массивным стальным браслетом, который привлекает внимание огромного количества покупателей мужского пола. А вот для прекрасной половины человечества компания выпустила сразу несколько стильных и оригинальных коллекций, которые украшают кристаллы Сваровски, а также яркие синие и перламутровые циферблаты.</span></p><figure class=\"image\"><img src=\"https://edu.zzgold.by/dls_uploads/users/147/original-1604652336507.png\"></figure><p style=\"text-align:justify;\">&nbsp;</p>",
+        "video_url": null,
+        "images": {
+            "normal": "https://edu.zzgold.by/dls_uploads/users/147/normal-1604652190797.png",
+            "original": "https://edu.zzgold.by/dls_uploads/users/147/original-1604652190797.png",
+            "preview": "https://edu.zzgold.by/dls_uploads/users/147/preview-1604652190797.png"
+        },
+        "audio_url": null,
+        "cost": null,
+        "estimation": 1800,
+        "after_test_id": null,
+        "read": false,
+        "author": {
+            "id": "147",
+            "name": "Оксана",
+            "surname": "Скрипко"
+        },
+        "test": {
+            "id": "225",
+            "after_test_id": "224",
+            "title": "Тест \"Swiss Military by Chrono\" ЗМ",
+            "published": true,
+            "type": "course_intermediate",
+            "max_attempts": 10,
+            "time_to_pass": 420,
+            "active": true,
+            "questions_amount": 5,
+            "assessment_type": "correct_answers",
+            "min_answers": 4,
+            "min_score_points": 4,
+            "max_score_points": null,
+            "award_condition_point": null,
+            "next_attempt_time": 300,
+            "after_test": true
+        },
+        "additional_materials": [],
+        "after_test": true,
+        "after_test_title": null
+    },
+    {
+        "id": "192",
+        "title": "Hanowa ЗМ",
+        "type": "mixed",
+        "description": "Название компании Hanowa хорошо известно во всем мире среди почитателей качественных швейцарских часов. Под маркой Hanowa производятся наручные часы с 1963 года.",
+        "order": 9,
+        "active": true,
+        "course_id": "10",
+        "html_content": "<figure class=\"image\"><img src=\"https://edu.zzgold.by/dls_uploads/users/147/original-1604652384597.png\"></figure><p>Название компании Hanowa хорошо известно во всем мире среди почитателей качественных швейцарских часов. Под маркой Hanowa производятся наручные часы с 1963 года. Название бренда было составлено из английских первых двух букв имени и фамилии Ханса Нолла и слова «watch»: «Ha», «No», «Wa» (Hans Noll’s Watch). Основали семейную компанию супруги Ханс и Элизабет Ноль. Переполненный креативными идеями и амбициозными планами, Ханс Нолл закупил на свою новую фабрику современное оборудование и пригласил на работу лучших часовых мастеров. Новая компания начала выпуск часовых изделий в неординарном дизайне и формах: в виде колец, подвесок и даже клипс. Столь оригинальные модели закрепили за брендом Hanowa репутацию производителя нетрадиционных и необычных часов. Первые коллекции в основном состояли из женских моделей. Оригинальные и неожиданные дизайнерские решения мгновенно привлекли внимание к марке. Для изготовления женских часов использовались ценные металлы и драгоценные камни, которые придавали моделям дополнительный аристократический шарм. Изделия Hanowa имели элегантный дизайн и могли заменить обычные ювелирные украшения. Помимо интересных дизайнерских воплощений часы отличались великолепными техническими характеристиками и соответствовали высоким стандартам швейцарского качества.</p><figure class=\"image\"><img src=\"https://edu.zzgold.by/dls_uploads/users/147/original-1604652581628.png\"></figure><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+        "video_url": null,
+        "images": {
+            "normal": "https://edu.zzgold.by/dls_uploads/users/147/normal-1604652384597.png",
+            "original": "https://edu.zzgold.by/dls_uploads/users/147/original-1604652384597.png",
+            "preview": "https://edu.zzgold.by/dls_uploads/users/147/preview-1604652384597.png"
+        },
+        "audio_url": null,
+        "cost": null,
+        "estimation": 1800,
+        "after_test_id": null,
+        "read": true,
+        "author": {
+            "id": "147",
+            "name": "Оксана",
+            "surname": "Скрипко"
+        },
+        "test": {
+            "id": "226",
+            "after_test_id": "225",
+            "title": "Тест \"Hanowa\" ЗМ",
+            "published": true,
+            "type": "course_intermediate",
+            "max_attempts": 10,
+            "time_to_pass": 420,
+            "active": true,
+            "questions_amount": 4,
+            "assessment_type": "correct_answers",
+            "min_answers": 4,
+            "min_score_points": 3,
+            "max_score_points": null,
+            "award_condition_point": null,
+            "next_attempt_time": 300,
+            "after_test": true
+        },
+        "additional_materials": [],
+        "after_test": true,
+        "after_test_title": null
+    },
+    {
+        "id": "193",
+        "title": "Pierre Ricaud  ЗМ",
+        "type": "mixed",
+        "description": "Часы бренда PIERRE RICAUD впервые были представлены широкой публике в 2008 году от имени немецкой торговой марки MAKK Uhrenshop, штаб-квартира которой находится в Гефельсберге",
+        "order": 10,
+        "active": true,
+        "course_id": "10",
+        "html_content": "<figure class=\"image\"><img src=\"https://edu.zzgold.by/dls_uploads/users/147/original-1604653037640.png\"></figure><p>&nbsp;</p><p>Часы бренда&nbsp;<strong>PIERRE RICAUD</strong>&nbsp;впервые были представлены широкой публике в 2008 году от имени немецкой торговой марки&nbsp;<strong>MAKK Uhrenshop,&nbsp;</strong>штаб-квартира которой находится в Гефельсберге. Сегодня это молодая и динамично развивающаяся компания, которая не перестает радовать своих поклонников новыми коллекциями. Базовый стиль бренда \"Пьер Рико\" – это классика и лаконичность, но есть также и спортивная линейка часов с яркими и контрастными элементами.</p><p>Пристальное внимание к деталям аксессуаров и четкость во всем, что касается дизайна, придает изделиям уникальный шарм и особый стиль, узнаваемый среди других часовых брендов. При этом ценовая политика производителя, в отличие от многих других брендов, доступна широким категориям покупателей, что подтверждается лаконичным слоганом «Pierre Ricaud – практичные часы на каждый день!»&nbsp;</p><p>&nbsp;</p><p>Внутренний состав часов также превосходен, как и внешний вид. Только самые точные швейцарские и японские механизмы двигают стрелки часов&nbsp;<strong>Pierre Ricaud</strong>. Но самым распространенным среди них является Miyota японской корпорации&nbsp;<strong>Citizen</strong>, в качестве продукции которой сомневаться не приходится. &nbsp;А из швейцарских механизмов чаще всего используется<strong>&nbsp;ISA 8171</strong>.&nbsp;</p><p>Материалы для моделей немецкой марки используются самые разные, в зависимости от коллекции. Но, в основном, это титан, сталь, натуральная кожа и каучук. Последний появился благодаря появлению спортивно-классической коллекции.&nbsp; Сапфировые и минеральные стекла надежно защищают циферблат часов, многие из моделей имеют степень водозащиты от 3 до 20 АТМ. В. Большинство моделей также&nbsp;<strong>покрыты PVD-покрытием</strong>. Несмотря на все это обилие качественных материалов, цена на часы марки очень и очень демократичная. За что ее любят не только&nbsp;<strong>в Германии</strong>, но и во многих странах мира.</p><figure class=\"image\"><img src=\"https://edu.zzgold.by/dls_uploads/users/147/original-1604653133399.png\"></figure><p>&nbsp;</p><p>Популярность бренда Pierre Ricaud обусловлена сочетанием классики и современности в каждой линии и детали, а также, конечно же, демократичностью цен. Отсутствие сложных и «навороченных» деталей и технологий придают изделиям особую прелесть и шарм, делая мужские и женские часы в то же время практичными и универсальными.</p><figure class=\"image\"><img src=\"https://edu.zzgold.by/dls_uploads/users/147/original-1604653203374.png\"></figure><p>&nbsp;</p><p><strong>БРЕНДЫ КОНКУРЕНТОВ</strong></p><p>На нашем рынке наиболее популярны следующие марки часов:&nbsp;</p><p>&nbsp;</p><ol><li>Tissot</li><li>Certina</li><li>Candino</li></ol><p>&nbsp;</p><p>Итак, кратко по каждой марке!&nbsp;</p><p style=\"text-align:center;\">&nbsp;</p><p style=\"text-align:center;\"><strong>Почему марка&nbsp;Tissot&nbsp; так&nbsp; популярна в Беларуси?</strong></p><p style=\"text-align:justify;\">TISSOT - безусловный лидер на рынке швейцарских часов в Беларуси! В нашей стране марка&nbsp;TISSOT стала синонимом швейцарских часов.</p><p style=\"text-align:justify;\">У многих белорусских покупателей этот бренд ассоциируется с настоящим&nbsp; швейцарским качеством и подлинностью часов.Хотя марка&nbsp;<strong>Roamer</strong>&nbsp;не уступает по качеству, а иногда и превосходит часы&nbsp;Tissot.</p><p>Вот некоторые составляющие популярности бренда&nbsp;Tissot:</p><p style=\"text-align:justify;\">&nbsp;</p><ul><li style=\"text-align:justify;\">Все часы&nbsp;<strong>TISSOT&nbsp;</strong>произведены в Швейцарии, для их производства используются механизмы ЕТА;</li><li style=\"text-align:justify;\">Самая высокая производительность среди всех традиционных швейцарских часовых брендов;</li><li>Часы&nbsp;<strong>TISSOT</strong>представлены в 150 странах на 5 континентах;</li><li>Продаются в более чем 16 000 точках продаж по всему миру;</li><li style=\"text-align:justify;\">Подходят как мужчинам, так и женщинам всех возрастов. Одной из главных задач&nbsp;<strong>TISSOT</strong>является сделать превосходство доступным благодаря широчайшему спектру высококачественных часов по доступной цене.</li></ul><p style=\"text-align:justify;\">&nbsp;</p><p style=\"text-align:justify;\">Главным преимуществом часов&nbsp;<strong>CERTINA&nbsp;</strong>перед конкурентами является использование в большинстве коллекций&nbsp;<strong>КОНЦЕПЦИИ&nbsp;DOUBLESECURITY (DS) - ДВОЙНОЙ ЗАЩИТЫ,&nbsp;</strong>которая включает в себя:</p><ol><li style=\"text-align:justify;\">Утолщенное сапфировое стекло, устойчивое к появлению царапин;</li><li style=\"text-align:justify;\">Два уплотняющих кольца на заводной головке;</li><li style=\"text-align:justify;\">Специальная прокладка на заводной головке, на уплотнении стекла и задней крышке</li></ol><p>Главным преимуществом часов&nbsp;<strong>CAVDINO&nbsp;</strong>является хорошее качество по доступной цене! Диапазон цены от 250 до 600 долларов. Входит в состав&nbsp;Festinagroup.</p><p>&nbsp;</p><p>&nbsp;</p>",
+        "video_url": null,
+        "images": {
+            "normal": "https://edu.zzgold.by/dls_uploads/users/147/normal-1604652946362.png",
+            "original": "https://edu.zzgold.by/dls_uploads/users/147/original-1604652946362.png",
+            "preview": "https://edu.zzgold.by/dls_uploads/users/147/preview-1604652946362.png"
+        },
+        "audio_url": null,
+        "cost": null,
+        "estimation": 1800,
+        "after_test_id": null,
+        "read": true,
+        "author": {
+            "id": "147",
+            "name": "Оксана",
+            "surname": "Скрипко"
+        },
+        "test": {
+            "id": "227",
+            "after_test_id": "226",
+            "title": "Тест \"Pierre Ricaud\" ЗМ",
+            "published": true,
+            "type": "course_intermediate",
+            "max_attempts": 10,
+            "time_to_pass": 420,
+            "active": true,
+            "questions_amount": 5,
+            "assessment_type": "correct_answers",
+            "min_answers": 4,
+            "min_score_points": 4,
+            "max_score_points": null,
+            "award_condition_point": null,
+            "next_attempt_time": 300,
+            "after_test": true
+        },
+        "additional_materials": [],
+        "after_test": true,
+        "after_test_title": null
+    },
+    {
+        "id": "194",
+        "title": "Принципы выставления часов ЗМ",
+        "type": "mixed",
+        "description": "Принципы выставления часов.",
+        "order": 11,
+        "active": true,
+        "course_id": "10",
+        "html_content": "<p style=\"text-align:center;\"><strong>Принципы выставления часов бизнес-эконом на витрине</strong></p><p style=\"text-align:center;\"><strong><u>Общие принципы</u></strong></p><p style=\"text-align:center;\">&nbsp;</p><ol><li style=\"text-align:justify;\"><strong>Чистота&nbsp;</strong>изделий, дисплейных материалов, витрин (пыль, отпечатки пальцев, остатки стикеров – НЕДОПУСТИМЫ). Защитные пленки со стекол и браслетов следует удалить, веревки от ярлыков переместить ближе к застежке. Ценники должны быть аккуратно спрятаны, чтобы не создавать неопрятный вид витрины.</li><li style=\"text-align:justify;\"><strong>Освещение&nbsp;</strong>изделий: все изделия должны быть выгодно освещены, все осветительное оборудование в исправном состоянии. Особое внимание необходимо уделять освещению изделий с бриллиантами!</li><li style=\"text-align:justify;\"><strong>Оптимальное использование витринного пространства:&nbsp;</strong>часы следует распределять по витрине равномерно, по возможности используя все вертикальные уровни</li><li style=\"text-align:justify;\"><strong>Ротация ассортимента:&nbsp;</strong>необходимо регулярно, раз в два месяца, производить перестановку изделий в рамках коллекций, полок, витрин, отдельных марок.</li></ol><p>&nbsp;</p><p style=\"text-align:center;\"><strong><u>ТОВАР - главенствующая роль на витрине!</u></strong></p><ol><li style=\"text-align:justify;\"><strong>Принцип \"пирамиды\":&nbsp;</strong>общая структура экспозиции должна вписываться в треугольник (часы нельзя ставить рядами, на одной линии).</li><li style=\"text-align:justify;\"><strong>Группировка&nbsp;</strong>изделий по коллекциям, семействам (линиям), логическим группам.</li><li style=\"text-align:justify;\"><strong>Соблюдение иерархии&nbsp;</strong>в общей схеме и в отдельных коллекциях:</li></ol><p style=\"text-align:justify;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; -&nbsp;</i>дорогие и престижные коллекции/модели располагаются в центральной/верхней части экспозиции;</p><p style=\"text-align:justify;\"><i>&nbsp; &nbsp; &nbsp; &nbsp;-&nbsp;</i>на переднем плане - модели на низких подставках, модели на ремешках на горках или без подставок;</p><p style=\"text-align:justify;\"><i>&nbsp; &nbsp; &nbsp; -&nbsp;&nbsp;</i>на заднем плане - часы на высоких подставках.</p><ol><li style=\"text-align:justify;\"><strong>Выделение ключевых моделей, новинок&nbsp;</strong>располагая их на приоритетных позициях и на специальных анимационных подставках.</li><li style=\"text-align:justify;\"><strong>Правильное положение&nbsp;</strong>изделий:</li></ol><p style=\"text-align:justify;\">&nbsp; &nbsp; &nbsp;- при горизонтальном положении часов - заводная головка вверх;</p><p style=\"text-align:justify;\">- все часы под одинаковым, оптимальным для обзора углом.</p><p style=\"text-align:justify;\"><strong>6.</strong>&nbsp;&nbsp;&nbsp;<strong>Визуально доступное расположение&nbsp;</strong>изделий.</p><p style=\"text-align:justify;\"><strong><u>МАТЕРИАЛЫ И ОБОРУДОВАНИЕ</u></strong></p><p><strong>1.</strong>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Принцип соответствия:</strong></p><p style=\"text-align:justify;\">&nbsp; &nbsp; &nbsp; &nbsp; -&nbsp;соответствие дисплейных материалов представленным коллекциям/моделям;</p><p style=\"text-align:justify;\">&nbsp; &nbsp; &nbsp; &nbsp;- своевременное использование сезонных дисплейных материалов;</p><p style=\"text-align:justify;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; -&nbsp;</i>использование только оригинальных дисплейных материалов.</p><p><strong>2.</strong>&nbsp;&nbsp;&nbsp;<strong>Правильное использование&nbsp;</strong>дисплейных материалов:<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- соблюдение комплектности дисплеев;</p><p style=\"text-align:justify;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; -&nbsp;</i>постоянное&nbsp; &nbsp; функционирование&nbsp; &nbsp; механических&nbsp; &nbsp; и&nbsp; &nbsp;электронных&nbsp; &nbsp; узлов<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;специальных дисплеев;</p><p style=\"text-align:justify;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; -&nbsp;</i>использование специальных ценников;</p><p style=\"text-align:justify;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; -&nbsp;</i>соответствие информационных табличек представленным изделиям.</p><p style=\"text-align:justify;\"><i>&nbsp; &nbsp; &nbsp; &nbsp; -&nbsp;</i>бережное отношение к торговому оборудованию!<span style=\"color:#464646;\">&nbsp;&nbsp;</span></p>",
+        "video_url": null,
+        "images": {
+            "normal": "https://edu.zzgold.by/dls_uploads/users/147/normal-1604934770628.png",
+            "original": "https://edu.zzgold.by/dls_uploads/users/147/original-1604934770628.png",
+            "preview": "https://edu.zzgold.by/dls_uploads/users/147/preview-1604934770628.png"
+        },
+        "audio_url": null,
+        "cost": null,
+        "estimation": 1800,
+        "after_test_id": null,
+        "read": true,
+        "author": {
+            "id": "147",
+            "name": "Оксана",
+            "surname": "Скрипко"
+        },
+        "test": null,
+        "additional_materials": [],
+        "after_test": true,
+        "after_test_title": null
+    }
+
 ]
 
 
