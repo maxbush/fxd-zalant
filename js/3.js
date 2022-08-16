@@ -58,15 +58,17 @@ let content = [
 ]
 
 
-const buttonContainer = document.querySelector('.button-container')
 const main = document.querySelector('main')
 
 for (let i = 0; i < content.length; i++) {
-  let button = document.createElement('button');
-  button.innerText = content[i].title;
-  buttonContainer.appendChild(button)
-  div = document.createElement('div')
-  main.appendChild(div)
-  button.addEventListener('click', (e) => {
+  let hDiv = document.createElement('div');
+  hDiv.innerText = content[i].title;
+  hDiv.classList.add('.header')
+  main.appendChild(hDiv)
+  const div = document.createElement('div')
+  div.classList.add('.display')
+  hDiv.appendChild(div)
+  hDiv.addEventListener('click', (e) => {
   div.innerHTML = content[i].html_content
+  div.classList.toggle(".display")
   })}
